@@ -1,0 +1,12 @@
+{
+    "yaml.validate": false,
+    "typescript.validate.enable": false,
+    "files.exclude": {
+        "node_modules": true
+    },
+    "yaml.schemas": {
+        "": [
+            "!node_modules/**"
+        ]
+    }
+}
